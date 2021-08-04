@@ -46,7 +46,7 @@ A avaliação será feita da seguinte forma:
 ### 📋 Pré-requisitos
 * [VisualStudio 2019 Community](https://visualstudio.microsoft.com/pt-br/thank-you-downloading-visual-studio/?sku=Community&rel=16) -IDE
 * Utilização de C#
-* Carga de trabalho do Visual Studio 2097 Web application 
+* Carga de trabalho do Visual Studio 2019 Web application 
 * .NET Core 3.1
 * Nuget
 * Operações acima funcionando sem erros
