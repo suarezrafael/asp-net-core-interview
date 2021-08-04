@@ -1,7 +1,7 @@
-# Roteiro Entrevista Asp Net Core 
+# :memo: Roteiro Entrevista Asp Net Core 
 asp-net-core-interview
 
-## NÃO FAÇA FORK DESSE REPOSITÓRIO
+## :warning: NÃO FAÇA FORK DESSE REPOSITÓRIO
 
 ## 🚀 Objetivo
 
