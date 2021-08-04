@@ -28,7 +28,7 @@ Nesta estapa esperamos que você construa o código que contemple as seguintes o
 
 ### 🔧 Cenário
 
-No nosso dia-a-dia trabalhamos com o desenvolvimento de microserviços desenvolvidos utilizando Spring Boot. Buscamos automação dos processos de garantia da qualidade, testes, deployment e release.
+No nosso dia-a-dia trabalhamos com o desenvolvimento de microserviços desenvolvidos utilizando AspNet Core. Buscamos automação dos processos de garantia da qualidade, testes, deployment e release.
 
 ## ⚙️ Critérios
 
